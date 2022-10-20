@@ -1,6 +1,6 @@
 def insertionSort(a):
     n=len(a)
-    #we assume first element is already sorted hence comaprision starts from 1st element
+    #we assume first element is already sorted hence comaparision starts from 1st element
     for i in range(1,n):
         # cval=a[i]
         pos=i
